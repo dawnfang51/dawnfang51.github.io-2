@@ -1,3 +1,1 @@
-# summer-github-bootstrap
-
-this is for username.github.io
+# This is my personal github website
